@@ -1,0 +1,23 @@
+Hero
+│
+├─ Foto
+├─ Nombre
+├─ Tecnologías
+├─ GitHub
+├─ LinkedIn
+│
+Sobre mí
+│
+Proyectos destacados
+│
+├─ Proyecto 1
+├─ Proyecto 2
+├─ Proyecto 3
+│
+Formación
+│
+Habilidades
+│
+Experiencia
+│
+Contacto
